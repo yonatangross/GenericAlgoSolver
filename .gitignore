@@ -35,7 +35,4 @@ hs_err_pid*
 .project
 .settings/
 PTM_projectTest.iml
-bin/
-out/
-src/
 *.txt
